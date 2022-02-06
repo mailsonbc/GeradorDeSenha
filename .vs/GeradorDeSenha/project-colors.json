@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13e30423-082f-4234-8dad-c51114011a73": {
+      "ProjectGuid": "13e30423-082f-4234-8dad-c51114011a73",
+      "DisplayName": "GeradorDeSenha",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

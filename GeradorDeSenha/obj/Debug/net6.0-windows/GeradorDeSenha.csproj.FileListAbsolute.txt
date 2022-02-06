@@ -1,0 +1,17 @@
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0-windows\GeradorDeSenha.exe
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0-windows\GeradorDeSenha.deps.json
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0-windows\GeradorDeSenha.runtimeconfig.json
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0-windows\GeradorDeSenha.dll
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0-windows\ref\GeradorDeSenha.dll
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\bin\Debug\net6.0-windows\GeradorDeSenha.pdb
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.csproj.AssemblyReference.cache
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.csproj.GenerateResource.cache
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.AssemblyInfoInputs.cache
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.AssemblyInfo.cs
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.csproj.CoreCompileInputs.cache
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.dll
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\ref\GeradorDeSenha.dll
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.pdb
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.genruntimeconfig.cache
+M:\Temp M\GeradorDeSenha\GeradorDeSenha\GeradorDeSenha\obj\Debug\net6.0-windows\GeradorDeSenha.Gerador.resources
