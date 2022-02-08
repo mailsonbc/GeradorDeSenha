@@ -1,0 +1,5 @@
+M:\Publicados\Gerador de Senha\GeradorDeSenha.exe
+M:\Publicados\Gerador de Senha\GeradorDeSenha.dll
+M:\Publicados\Gerador de Senha\GeradorDeSenha.deps.json
+M:\Publicados\Gerador de Senha\GeradorDeSenha.runtimeconfig.json
+M:\Publicados\Gerador de Senha\GeradorDeSenha.pdb
